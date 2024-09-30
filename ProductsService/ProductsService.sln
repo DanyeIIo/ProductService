@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsService.Api", "..\ProductsService.Api\ProductsService.Api.csproj", "{22F5012B-14EB-454F-871E-8560819CD03E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsService.Api", "ProductsService.Api\ProductsService.Api.csproj", "{22F5012B-14EB-454F-871E-8560819CD03E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsService.BusinessLogic", "..\ProductsService.BusinessLogic\ProductsService.BusinessLogic.csproj", "{FEE9425B-2327-40DB-869E-7826013E6191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsService.BusinessLogic", "ProductsService.BusinessLogic\ProductsService.BusinessLogic.csproj", "{FEE9425B-2327-40DB-869E-7826013E6191}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsService.Data", "ProductsService.Data\ProductsService.Data.csproj", "{C2849F3E-CAC7-4687-B25F-2A95045B3BE0}"
 EndProject
